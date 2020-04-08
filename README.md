@@ -19,7 +19,7 @@ Since this is a right angle, we can use trigonometric relationships to solve for
 
 In the first image, the thrusts from the two props have been combined into a single F_thrust. Let's assume the quantities shown to have the following values:
 
-![quantity graph](/images/quantities.png)
+![quantity graph](/images/quatities.png)
 
 Which equation would give us the total force in the horizontal-y direction, F_y?  (F_y = F_thrust(sin_phi))
 
